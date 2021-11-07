@@ -1,0 +1,6 @@
+{
+    "file_path": "./data/data1.csv",
+    "output_dim": 1,
+    "batch_size": 32,
+    "feature_len": 19
+}
